@@ -2,5 +2,5 @@
 #mod 'zack/r10k' '2.3.0'
 
 #custom modules deploy to production
-mod 'puppetlabs/roles',
+mod 'testing',
  :git => 'git@github.com:oyusuf/roles.git'
