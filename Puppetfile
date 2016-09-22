@@ -4,3 +4,6 @@
 #custom modules deploy to production
 mod 'puppetlabs/roles',
  :git => 'git@github.com:oyusuf/roles.git'
+
+mod 'puppetlabs/profiles',
+ :git => 'git@github.com:oyusuf/profiles.git'
