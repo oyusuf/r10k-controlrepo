@@ -1,5 +1,6 @@
 #Install Puppet modules from the forge
 #mod 'zack/r10k' '2.3.0'
+mod 'danzilio-kickstart'
 
 #custom modules deploy to production
 mod 'puppetlabs/roles',
