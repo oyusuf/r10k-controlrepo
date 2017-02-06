@@ -1,8 +1,8 @@
 #Install Puppet modules from the forge
-mod 'zack-r10k', '999.999.999'
 mod 'danzilio-kickstart'
 mod 'rtyler-jenkins', '1.7.0'
 mod 'puppetlabs-firewall', '1.8.2'
+mod 'vshn-gitlab', '1.11.0'
 
 #custom modules deploy to production
 mod 'puppetlabs/roles',
