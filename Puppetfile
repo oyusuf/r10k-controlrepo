@@ -2,6 +2,7 @@
 mod 'zack-r10k', '999.999.999'
 mod 'danzilio-kickstart'
 mod 'rtyler-jenkins', '1.7.0'
+mod 'puppetlabs-firewall', '1.8.2'
 
 #custom modules deploy to production
 mod 'puppetlabs/roles',
